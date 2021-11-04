@@ -1,6 +1,6 @@
 # App-Todos_TSC-REACT
   
-  Aplicacion creada con la finalidad de aprender e interiorizar los conceptos aprendidos sobre React y Typescript
+  Aplicacion creada con la finalidad de interiorizar y poner en practica los conceptos aprendidos sobre React y Typescript
   
   ## Tecnologias Usadas:
     Html
