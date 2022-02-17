@@ -1,6 +1,6 @@
 # App-Todos_TSC-REACT
-  
-  Aplicacion creada con la finalidad de interiorizar y poner en practica los conceptos aprendidos sobre React y Typescript
+
+  this app saves all the tasks that we create in the localstorage so they will not be lost, we can mark them as completed or pending
   
   ## Tecnologias Usadas:
     Html
